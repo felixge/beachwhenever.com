@@ -1,0 +1,14 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "name": "beachwhenever.com",
+  "description": "A node.js app for organizing beach volleyball games.",
+  "version": "0.0.0",
+  "homepage": "http://beachwhenever.com/",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "private": true,
+  "engines": {
+    "node": "*"
+  }
+}
